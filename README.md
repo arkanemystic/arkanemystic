@@ -12,6 +12,7 @@ class DevakhRashie:
             "blockchain": ["DApps", "Security", "Interoperability"],
             "AI": ["Machine Learning", "Neural Networks"],
             "robotics": ["Automation", "Control Systems"]
+            "music": ["South Asian", "Professional A Capella Team"]
         }
 ```
 
