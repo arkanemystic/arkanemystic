@@ -7,7 +7,7 @@
 class DevakhRashie:
     def __init__(self):
         self.university = "The Ohio State University"
-        self.studies = ["Computer Science", "Mathematics"]
+        self.studies = ["Computer Science", "Theoretical Mathematics"]
         self.interests = {
             "blockchain": ["DApps", "Security", "Interoperability"],
             "AI": ["Machine Learning", "Neural Networks"],
