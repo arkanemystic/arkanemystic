@@ -1,7 +1,7 @@
 # 🚀 Devakh Rashie | Blockchain × AI Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](your-twitter-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/devrashie)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/devrashie/)
 
 ```python
 class DevakhRashie:
@@ -25,6 +25,6 @@ At **The Ohio State University's Blockchain Lab**, I'm pioneering:
 I thrive at the intersection of mathematical theory and practical engineering. My work combines rigorous academic research with real-world blockchain applications, aiming to make decentralized systems more secure and accessible.
 
 ## 🤝 Let's Connect
-Got an interesting project idea or research proposal? I'm always excited to collaborate on innovative solutions. Reach out through [LinkedIn](your-linkedin-url) or drop me an email at [your-email@example.com](mailto:your-email@example.com).
+Got an interesting project idea or research proposal? I'm always excited to collaborate on innovative solutions. Reach out through [LinkedIn](https://www.linkedin.com/in/devrashie) or follow my journey on [Instagram](https://www.instagram.com/devrashie/).
 
 _"Building the decentralized future, one block at a time."_
