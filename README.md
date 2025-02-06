@@ -10,7 +10,7 @@ class DevakhRashie:
         self.studies = ["Computer Science", "Theoretical Mathematics"]
         self.interests = {
             "blockchain": ["DApps", "Security", "Interoperability"],
-            "AI": ["Machine Learning", "Neural Networks"],
+            "AI": ["LLMs", "GANs"],
             "robotics": ["Automation", "Control Systems"]
             "music": ["South Asian", "Professional A Capella Team"]
         }
