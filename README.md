@@ -12,6 +12,7 @@ class DevakhRashie:
             "blockchain": ["DApps", "Security", "Interoperability"],
             "AI": ["LLMs", "GANs"],
             "robotics": ["Automation", "Control Systems"]
+            "fitness": ["Cross Country", "Weight Lifting"]
             "music": ["South Asian", "Professional A Capella Team"]
         }
 ```
