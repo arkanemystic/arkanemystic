@@ -1,4 +1,4 @@
-# 🚀 Devakh Rashie | Computer Science & Math
+# 🚀 Devakh Rashie
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/devrashie)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/devrashie/)
