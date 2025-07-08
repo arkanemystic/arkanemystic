@@ -18,5 +18,3 @@ class DevakhRashie:
             "music": ["South Asian", "Professional A Capella Team"]
         }
 ```
-
-_"Building the decentralized future, one block at a time."_
