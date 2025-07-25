@@ -12,9 +12,18 @@ class DevakhRashie:
         self.studies = ["Computer Science", "Theoretical Mathematics"]
         self.interests = {
             "blockchain": ["DApps", "Security", "Interoperability"],
-            "AI": ["LLMs", "GANs"],
-            "robotics": ["Automation", "Control Systems"]
-            "fitness": ["Cross Country", "Weight Lifting"]
+            "AI": ["LLMs", "GANs", "Pose Estimation", "Contextual Agents"],
+            "robotics": ["Automation", "Control Systems"],
+            "fitness": ["Cross Country", "Weight Lifting"],
             "music": ["South Asian", "Professional A Capella Team"]
+        }
+        self.tech_stack = {
+            "languages": ["Python", "JavaScript", "Java", "C/C++", "Bash"],
+            "frontend": ["React", "React Native", "Vite", "Tailwind CSS"],
+            "backend": ["Flask", "Express.js"],
+            "mobile": ["React Native", "Java (Android)"],
+            "database": ["MongoDB", "ChromaDB", "CSV", "JSON", "LocalStorage"],
+            "tools": ["VSCode", "Git", "Postman", "Heroku", "n8n"],
+            "devops": ["Git Submodules", "Heroku Deployment"]
         }
 ```
