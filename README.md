@@ -1,32 +1,29 @@
-# Hey :)
+# Hey there,
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/devrashie)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/devrashie/)
+[![Twitter](https://img.shields.io/twitter/follow/devrashie)](https://x.com/devrashie/)
+
+
+```python
 class DevakhRashie:
     def __init__(self):
-        # --- Personal Info ---
-        self.name = "Devakh Rashie"  # Added this
         self.university = "The Ohio State University"
         self.studies = ["Computer Science", "Applied Math (Physics)"]
-
-        # --- Socials ---
-        self.socials = {
-            "linkedin": "https://www.linkedin.com/in/devrashie",
-            "instagram": "https://www.instagram.com/devrashie/",
-            "twitter": "https://x.com/devrashie/"
+        self.interests = {
+            "blockchain": ["DApps", "Security", "Interoperability"],
+            "AI": ["LLMs", "GANs", "Pose Estimation", "Contextual Agents"],
+            "robotics": ["Automation", "Control Systems"],
+            "fitness": ["Cross Country", "Weight Lifting"],
+            "music": ["South Asian", "Professional A Capella Team"]
         }
-        
-        # --- Current rabbit holes ---
-        self.interests = [
-            "Blockchain (DApps, Security)",
-            "AI (LLMs, Pose Estimation)",
-            "Robotics (Control Systems)",
-            "Fitness (XC, Lifting)",
-            "South Asian A Capella"
-        ]
-        
-        # --- Tools I build with ---
         self.tech_stack = {
-            "daily_drivers": ["Python", "JavaScript", "Java", "C/C++", "Git"],
-            "web_stack": ["React", "React Native", "Tailwind", "Flask", "MongoDB"],
-            "also_messing_with": ["ChromaDB", "n8n", "Java (Android)"]
+            "languages": ["Python", "JavaScript", "Java", "C/C++", "Bash"],
+            "frontend": ["React", "React Native", "Vite", "Tailwind CSS"],
+            "backend": ["Flask", "Express.js"],
+            "mobile": ["React Native", "Java (Android)"],
+            "database": ["MongoDB", "ChromaDB", "CSV", "JSON", "LocalStorage"],
+            "tools": ["VSCode", "Git", "Postman", "Heroku", "n8n"],
+            "devops": ["Git Submodules", "Heroku Deployment"]
         }
-
+```
