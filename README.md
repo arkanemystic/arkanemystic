@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/devrashie/)
 [![Twitter](https://img.shields.io/twitter/follow/devrashie)](https://x.com/devrashie/)
 
-'''python
+
 class DevakhRashie:
     def __init__(self):
         self.university = "The Ohio State University"
@@ -25,4 +25,3 @@ class DevakhRashie:
             "web_stack": ["React", "React Native", "Tailwind", "Flask", "MongoDB"],
             "also_messing_with": ["ChromaDB", "n8n", "Java (Android)"]
         }
-'''
