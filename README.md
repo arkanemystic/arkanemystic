@@ -1,5 +1,3 @@
-# hey, i'm dev
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/devrashie)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/devrashie/)
 [![Twitter](https://img.shields.io/twitter/follow/devrashie)](https://x.com/devrashie/)
