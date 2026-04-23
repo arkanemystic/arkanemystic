@@ -1,25 +1,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/devrashie)
 
-
-```python
-class DevakhRashie:
-    def __init__(self):
-        self.university = "The Ohio State University"
-        self.studies = ["Computer Science", "Applied Math (Physics)"]
-        self.interests = {
-            "blockchain": ["DApps", "Security", "Interoperability"],
-            "AI": ["LLMs", "GANs", "Pose Estimation", "Contextual Agents"],
-            "robotics": ["Automation", "Control Systems"],
-            "fitness": ["Cross Country", "Weight Lifting"],
-            "music": ["South Asian", "Professional A Capella Team"]
-        }
-        self.tech_stack = {
-            "languages": ["Python", "JavaScript", "Java", "C/C++", "Bash"],
-            "frontend": ["React", "React Native", "Vite", "Tailwind CSS"],
-            "backend": ["Flask", "Express.js"],
-            "mobile": ["React Native", "Java (Android)"],
-            "database": ["MongoDB", "ChromaDB", "CSV", "JSON", "LocalStorage"],
-            "tools": ["VSCode", "Git", "Postman", "Heroku", "n8n"],
-            "devops": ["Git Submodules", "Heroku Deployment"]
-        }
-```
+👋 Hi! I'm Dev
+🌐 Check out my portfolio: devrashie.space
