@@ -57,6 +57,10 @@
                                                   
 ```
 
-**Potter**
+<br/>
+
+<h2>Potter</h2>
+
+`beagle x foxhound` · `ambitious pooch` · `goodboy / 10`
 
 </div>
