@@ -61,6 +61,6 @@
 
 <h2>Potter</h2>
 
-`beagle` · `ambitious pooch` · `goodboy / 10`
+`ambitious pooch`
 
 </div>
