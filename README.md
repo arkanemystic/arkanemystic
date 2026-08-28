@@ -1,3 +1,18 @@
+<h1 align="left">Devakh Rashie</h1>
+
+<p align="left">
+  Interested in formal methods, blockchain security, and AI safety.
+</p>
+
+<p align="left">
+  <em>How lucky we are to be living in a time like this.</em>
+</p>
+
+---
+
+<h3 align="center">
+  <em>Potter</em>
+</h3>
 <div align="center">
 
 ```
@@ -57,10 +72,5 @@
                                                   
 ```
 
-<br/>
-
-<h2>Potter</h2>
-
-`ambitious pooch`
 
 </div>
