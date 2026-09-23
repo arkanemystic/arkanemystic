@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="RKLaxman_Nov122006.png" alt="R.K. Laxman cartoon: a self-running robot camera photographing tourist sites" width="300">
+  <img src="monk_by_the_sea.jpg" alt="Caspar David Friedrich painting: a lone monk facing a vast dark sea and sky" width="600">
   <br>
-  <sub>Cartoon: R.K. Laxman, "Passing Thought," <i>The Times of India</i>, 2006.</sub>
+  <sub>Caspar David Friedrich, "The Monk by the Sea," 1808–1810.</sub>
 </p>
