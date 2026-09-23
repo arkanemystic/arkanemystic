@@ -1,4 +1,4 @@
-<h1 align="left">Devakh Rashie</h1>
+<h1 align="left">Hey, I'm Dev</h1>
 
 <p align="left">
   Interested in formal methods and AI safety.
